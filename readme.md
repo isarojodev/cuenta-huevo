@@ -4,4 +4,5 @@ Elementos:
 - Estructura en html
 - Diseño con figma
 - Diseño con css
-- Funciones con JS
+- Funcionalidad con JS
+
